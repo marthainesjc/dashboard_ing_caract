@@ -6,4 +6,4 @@ We are getting the information from Marvel's API. If you are interested to acces
 
 The dashboard was created using Power Bi so for you to look up at it you need to access with your institutional mail.
 
-Click here to see the [Dashboard](<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7bca7b4f-7a12-4e86-9443-f34a19495d4d&autoAuth=true&ctid=67553645-0db3-4480-b127-6f819a79e367&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>)
+Click here to see the [Dashboard](https://app.powerbi.com/reportEmbed?reportId=7bca7b4f-7a12-4e86-9443-f34a19495d4d&autoAuth=true&ctid=67553645-0db3-4480-b127-6f819a79e367&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
